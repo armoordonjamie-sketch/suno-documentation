@@ -1,0 +1,90 @@
+# https://howtopromptsuno.com/making-music/tempo-tags
+
+**Source URL:** https://howtopromptsuno.com/making-music/tempo-tags
+**Fetched:** 2025-12-07 00:21:49
+
+---
+
+[Making music](</making-music> "Making music")Tempo
+
+# How to set the tempo with AI music
+
+## Lento to Largo \(Very Slow\)[](<#lento-to-largo-very-slow>)
+
+  * Grave: 20-40 BPM
+  * Largo: 40-60 BPM
+  * Larghetto: 60-66 BPM
+
+
+
+## Adagio \(Slow\)[](<#adagio-slow>)
+
+  * Lento: 45-60 BPM
+  * Adagissimo: Very slow
+  * Adagio: 66-76 BPM
+
+
+
+## Andante \(Walking Pace\)[](<#andante-walking-pace>)
+
+  * Largamente: Broadly
+  * Andante: 76-108 BPM
+  * Andantino: Slightly faster than Andante \(but sometimes interpreted as slightly slower than Andante\)
+
+
+
+## Moderato \(Moderate\)[](<#moderato-moderate>)
+
+  * Andante moderato: Between Andante and Moderato
+  * Moderato: 108-120 BPM
+  * Allegretto: 112-120 BPM
+  * Tempo comodo: At a comfortable pace
+
+
+
+## Allegro \(Fast\)[](<#allegro-fast>)
+
+  * Allegro moderato: 116-120 BPM
+  * Allegro: 120-168 BPM
+  * Allegro vivace: 132-140 BPM
+  * Vivace: 140-176 BPM
+  * Allegro assai: Very fast
+  * Molto allegro: Very fast
+  * Vivacissimo: Very lively and fast
+
+
+
+## Presto to Prestissimo \(Very Fast\)[](<#presto-to-prestissimo-very-fast>)
+
+  * Allegrissimo or Allegro vivace: 172-176 BPM
+  * Presto: 168-200 BPM
+  * Prestissimo: 200+ BPM
+
+
+
+## Additional Terms[](<#additional-terms>)
+
+  * Accelerando: Gradually accelerating or speeding up
+  * Ritardando: Gradually slowing down
+  * Rallentando: Broadening, often implying a decrease in tempo
+  * Rubato: Flexible tempo for expressive purposes
+  * Mosso: Movement, more lively
+  * Con moto: With motion
+  * Tempo primo: Return to the first tempo
+  * Doppio movimento: Double the speed
+  * Sostenuto: Sustained, can imply a slower tempo
+  * Allargando: Broadening, usually slowing down
+  * Stringendo: Pressing on faster
+  * Tranquillo: Tranquilly, can imply a slower tempo
+  * Con brio: With vigor, implies a lively tempo
+  * Cantabile: In a singing style, the tempo can vary
+  * Scherzando: Playful or joking
+  * Tempo di marcia: March tempo, variable
+  * Tempo giusto: Strict, exact tempo
+  * Animato: Animated or lively
+
+
+
+Last updated on April 19, 2025
+
+[Pre-chorus bridge](</making-music/pre-chorus-bridge> "Pre-chorus bridge")[Mastering music](</making-music/mastering-music> "Mastering music")
